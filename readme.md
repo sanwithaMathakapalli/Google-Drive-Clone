@@ -13,7 +13,7 @@ Follow these steps to use the project:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sanwithaMathakapalli/Google-Drive-Clone.git
 ## Custom CSS
 
 In the `styles.css` file, you'll find custom CSS styles applied to various elements of the web page. You can further customize these styles to change the web page's appearance according to your preferences.
@@ -25,13 +25,7 @@ Feel free to explore, modify, and enhance this project as needed. If you have an
 
 Your feedback and contributions are appreciated!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-*Note:* This project is for educational purposes and is not affiliated with or endorsed by Google Drive.
 ## Folder Structure
 
 The repository structure is organized as follows:
